@@ -19,6 +19,7 @@ describe('Verify Login & Logout Functionality',function()
 		
 		.then(function(){
 		console.log('Asynchronous Script')
+		console.log('Asynchronous Script')
 
 		})
       
